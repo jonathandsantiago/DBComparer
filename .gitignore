@@ -1,0 +1,14 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/VSWorkspaceState.json
+/.vs/slnx.sqlite
+/.vs/ProjectSettings.json
+/.vs/DBComparer/v15/.suo
+/ComparadorDadosSQL/.vs/ComparadorDadosSQL/v15/Server/sqlite3
+/ComparadorDadosSQL/.vs/ComparadorDadosSQL/v15
+/ComparadorDadosSQL/ComparadorDadosSQL/bin
+/ComparadorDadosSQL/ComparadorDadosSQL/obj
+/ComparadorDadosSQL/.vs/ComparadorDadosSQL/v16/Server/sqlite3
+/ComparadorDadosSQL/.vs/ComparadorDadosSQL/v16
