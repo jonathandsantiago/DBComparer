@@ -12,3 +12,7 @@
 /ComparadorDadosSQL/ComparadorDadosSQL/obj
 /ComparadorDadosSQL/.vs/ComparadorDadosSQL/v16/Server/sqlite3
 /ComparadorDadosSQL/.vs/ComparadorDadosSQL/v16
+/.vs/DBComparer/v16/Server/sqlite3
+/.vs/DBComparer/v16
+/DBComparer/bin
+/DBComparer/obj
